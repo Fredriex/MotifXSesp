@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\hifre\OneDrive\Documents\MotifXSesp\build\CMakeFiles\17a3d3af9a446f99f10e5aad6f469101\MotifXS_Editor_resources.rc.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\hifre\OneDrive\Documents\MotifXSesp\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="C:\Users\hifre\OneDrive\Documents\MotifXSesp\build\MotifXS_Editor_artefacts\JuceLibraryCode\MotifXS_Editor_resources.rc">
+      <Filter>Source Files</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{FAD9B7AD-477C-3551-9434-6943926AE53B}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{5F3D52B8-3EA0-3EA8-86AB-CB2CE8D18491}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

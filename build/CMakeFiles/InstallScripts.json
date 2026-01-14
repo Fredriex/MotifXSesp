@@ -1,0 +1,11 @@
+{
+	"InstallScripts" : 
+	[
+		"C:/Users/hifre/OneDrive/Documents/MotifXSesp/build/cmake_install.cmake",
+		"C:/Users/hifre/OneDrive/Documents/MotifXSesp/build/build/cmake_install.cmake",
+		"C:/Users/hifre/OneDrive/Documents/MotifXSesp/build/build/modules/cmake_install.cmake",
+		"C:/Users/hifre/OneDrive/Documents/MotifXSesp/build/build/extras/Build/cmake_install.cmake",
+		"C:/Users/hifre/OneDrive/Documents/MotifXSesp/build/build/extras/Build/juceaide/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

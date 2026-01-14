@@ -1,0 +1,10 @@
+C:/Users/hifre/OneDrive/Documents/MotifXSesp/build/CMakeFiles/MotifXS_Editor.dir
+C:/Users/hifre/OneDrive/Documents/MotifXSesp/build/CMakeFiles/MotifXS_Editor_rc_lib.dir
+C:/Users/hifre/OneDrive/Documents/MotifXSesp/build/CMakeFiles/INSTALL.dir
+C:/Users/hifre/OneDrive/Documents/MotifXSesp/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/hifre/OneDrive/Documents/MotifXSesp/build/CMakeFiles/ZERO_CHECK.dir
+C:/Users/hifre/OneDrive/Documents/MotifXSesp/build/build/CMakeFiles/INSTALL.dir
+C:/Users/hifre/OneDrive/Documents/MotifXSesp/build/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/hifre/OneDrive/Documents/MotifXSesp/build/build/modules/CMakeFiles/INSTALL.dir
+C:/Users/hifre/OneDrive/Documents/MotifXSesp/build/build/extras/Build/CMakeFiles/INSTALL.dir
+C:/Users/hifre/OneDrive/Documents/MotifXSesp/build/build/extras/Build/juceaide/CMakeFiles/INSTALL.dir

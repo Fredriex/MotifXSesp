@@ -1,0 +1,10 @@
+^C:\USERS\HIFRE\ONEDRIVE\DOCUMENTS\MOTIFXSESP\BUILD\BUILD\TOOLS\CMAKEFILES\E1237AA968DAED7F8B24CFAA9D3B53A1\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/sdk/JUCE -BC:/Users/hifre/OneDrive/Documents/MotifXSesp/build/build/tools --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Users/hifre/OneDrive/Documents/MotifXSesp/build/build/tools/JUCE.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

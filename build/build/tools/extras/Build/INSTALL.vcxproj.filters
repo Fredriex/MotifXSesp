@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\hifre\OneDrive\Documents\MotifXSesp\build\build\tools\CMakeFiles\e9c0caa79795b078a1282364e0795bfc\INSTALL_force.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{9C5A2038-8A5C-33E5-B04B-1B5107095632}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

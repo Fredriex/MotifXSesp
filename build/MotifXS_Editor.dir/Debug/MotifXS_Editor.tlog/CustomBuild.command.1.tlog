@@ -1,0 +1,10 @@
+^C:\USERS\HIFRE\ONEDRIVE\DOCUMENTS\MOTIFXSESP\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/hifre/OneDrive/Documents/MotifXSesp -BC:/Users/hifre/OneDrive/Documents/MotifXSesp/build --check-stamp-file C:/Users/hifre/OneDrive/Documents/MotifXSesp/build/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

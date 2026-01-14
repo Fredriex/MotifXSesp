@@ -1,0 +1,10 @@
+^C:\USERS\HIFRE\ONEDRIVE\DOCUMENTS\MOTIFXSESP\BUILD\CMAKEFILES\C726406E53B2E55495E4C72CC08E97FC\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/hifre/OneDrive/Documents/MotifXSesp -BC:/Users/hifre/OneDrive/Documents/MotifXSesp/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Users/hifre/OneDrive/Documents/MotifXSesp/build/MotifXS_Editor.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
