@@ -1,12 +1,17 @@
-#include <JuceHeader.h>
+#include <juce_gui_basics/juce_gui_basics.h>
+#include <juce_events/juce_events.h>
+#include <juce_core/juce_core.h>
 #include "MainComponent.h"
 
 class MotifXSEditorApplication  : public juce::JUCEApplication
 {
 public:
     MotifXSEditorApplication() {}
-    const juce::String getApplicationName() override       { return ProjectInfo::projectName; }
-    const juce::String getApplicationVersion() override    { return ProjectInfo::versionString; }
+    
+    // ProjectInfo biasanya ada di JuceHeader, kita ganti string manual atau hapus referensi ProjectInfo
+    // untuk menghindari error jika module generation belum sempurna.
+    const juce::String getApplicationName() override       { return "MotifXSesp"; }
+    const juce::String getApplicationVersion() override    { return "0.0.1"; }
     bool moreThanOneInstanceAllowed() override             { return true; }
 
     void initialise (const juce::String& commandLine) override
